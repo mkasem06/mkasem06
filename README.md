@@ -1,6 +1,8 @@
  Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=CoolGuyMK&style=flat-square" alt="CoolGuyMK" /><br>
+<img src="https://komarev.com/ghpvc/?username=CoolGuyMK&style=plastic&" alt="CoolGuyMK" /><br>
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /><br>
 
 - 🔭 I’m currently working on Buildbotting android roms xD
 - 📫 How to reach me: coolguymk1@gmail.com | https://t.me/SILENT_KILLER404 (telegram)
