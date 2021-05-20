@@ -6,7 +6,7 @@
 
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /><br>
 
--  <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">I’m currently working on Buildbotting android roms xD
+-  <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">I’m currently working on building android roms :)
 - <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">How to reach me: [![Gmail Badge](https://img.shields.io/badge/-coolguymk1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:coolguymk1@gmail.com) <a href="https://t.me/SILENT_KILLER404"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" alt="Telegram"></a>
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">Fun fact: Banging your head against a wall for one hour burns 150 calories 🥴🙃
 
