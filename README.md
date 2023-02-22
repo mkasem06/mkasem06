@@ -24,5 +24,5 @@
 [![Spotify](https://novatorem-coolguymk.vercel.app/api/spotify/?background_color=203A43&border_color=0F2027)](https://open.spotify.com/user/qersw6bp8qbz8fck81n2vrdt4)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mrrobotmk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrrobotmk" /></a></p><br><br>
+<p><a href="https://paypal.me/mkasem06"> <img align="left" src="https://img.shields.io/badge/Paypal--_.svg?style=social&logo=paypal" height="50" /></a></p><br><br>
 
