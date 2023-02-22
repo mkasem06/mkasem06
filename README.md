@@ -1,11 +1,28 @@
-<h2>Hello There<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><br>
+<h1 align="center">Hi 👋, I'm 𝕄𝕂 🖤</h1>
+<h3 align="center">A passionate beginner in building roms</h3>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=CoolGuyMK&style=plastic&" alt="CoolGuyMK" width="150px"/><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguymk&label=Profile%20views&color=0e75b6&style=flat" alt="coolguymk" /> </p>
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="190px"> <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px"/><br>
+- 🌱 I’m currently learning **building roms**
 
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently working on building android roms :)
-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;How to reach me: [![Gmail Badge](https://img.shields.io/badge/-coolguymk1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:coolguymk1@gmail.com) <a href="https://t.me/SILENT_KILLER404"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" alt="Telegram"></a>
-- <img src="https://media.giphy.com/media/3kzJvEciJa94SMW3hN/giphy.gif" width="30px">&nbsp;Fun fact: Banging your head against a wall for one hour burns 150 calories 🔥🤯<br><br>
+- 💬 Ask me about **nothing**
 
-[![CoolGuyMK gitstats](https://github-readme-stats.vercel.app/api?username=CoolGuyMK&layout=compact&theme=radical&show_icons=true&count_private=true&border_radius=24)](https://github.com/CoolGuyMK)<br>
+- 📫 How to reach me **coolguymk1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/SILENT_KILLER404" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" /></a>   
+<a href="https://twitter.com/momoe404" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" /></a>
+<a href="https://fb.com/m.kasem06" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" /></a> 
+</p>
+
+<h3 align="left">Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolguymk&show_icons=true&text_color=e2e2e2&bg_color=DEG,0F2027,203A43,2C5364&border_radius=5&hide_border=true&count_private=true&locale=en" alt="coolguymk" /></p>
+
+<h3 align="left">Vibing to 🎶:</h3>
+
+[![Spotify](https://novatorem-coolguymk.vercel.app/api/spotify/?background_color=203A43&border_color=0F2027)](https://open.spotify.com/user/qersw6bp8qbz8fck81n2vrdt4)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mrrobotmk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrrobotmk" /></a></p><br><br>
+
