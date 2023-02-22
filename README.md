@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/SILENT_KILLER404" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" /></a>   
-<a href="https://twitter.com/momoe404" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" /></a>
+<a href="https://twitter.com/mk_2506" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" /></a>
 <a href="https://fb.com/m.kasem06" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" /></a> 
 </p>
 
