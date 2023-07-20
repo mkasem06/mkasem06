@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 𝕄𝕂 🖤</h1>
-<h3 align="center">A passionate beginner in building roms</h3>
+<s><h3 align="center">A passionate beginner in building roms</h3></s>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolguymk&label=Profile%20views&color=0e75b6&style=flat" alt="coolguymk" /> </p>
 
-- 🌱 I’m currently learning **building roms**
+- 🌱 I’m currently learning <s>**building roms**</s>
 
 - 💬 Ask me about **nothing**
 
