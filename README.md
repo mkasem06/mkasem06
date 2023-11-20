@@ -16,9 +16,6 @@
 <a href="https://fb.com/m.kasem06" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" /></a> 
 </p>
 
-<h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolguymk&show_icons=true&text_color=e2e2e2&bg_color=DEG,0F2027,203A43,2C5364&border_radius=5&hide_border=true&count_private=true&locale=en" alt="coolguymk" /></p>
-
 <h3 align="left">Vibing to 🎶:</h3>
 
 [![Spotify](https://novatorem-coolguymk.vercel.app/api/spotify/?background_color=203A43&border_color=0F2027)](https://open.spotify.com/user/qersw6bp8qbz8fck81n2vrdt4)
