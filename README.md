@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **coolguymk1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/SILENT_KILLER404" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" /></a>   
