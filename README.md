@@ -6,7 +6,7 @@
 </p>
 
 ### 🌱 Currently Studying
-- **Engineering**
+- **Computer and Communications Engineering**
 
 ### 💬 Ask Me About
 - **Nothing**
