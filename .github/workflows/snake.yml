@@ -15,8 +15,7 @@ jobs:
         with:
           github_user_name: mkasem06  # Replace with your GitHub username
           outputs: |
-            dist/github-snake.gif
-            dist/github-snake-dark.gif?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.svg
       
       - uses: crazy-max/ghaction-github-pages@v3
