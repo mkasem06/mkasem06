@@ -11,6 +11,13 @@
 ### 💬 Ask Me About
 - **Nothing**
 
+### 📊 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkasem06/mkasem06/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkasem06/mkasem06/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mkasem06/mkasem06/output/github-snake.svg">
+</picture>
+
 ### Connect with Me
 <p align="center">
   <a href="https://t.me/mkasem06" target="_blank">
