@@ -27,7 +27,7 @@
   </a>
 </p>
 
-- flutter-projects — Flutter examples and small apps showcasing UI patterns, widgets, and basic app features.
+- Flutter examples and small apps showcasing UI patterns, widgets, and basic app features.
 
 ### 📊 Contribution graph
 <picture>
@@ -38,6 +38,9 @@
 
 ## 📫 Connect
 <p align="center">
+  <a href="mailto:m.kasem2506@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://t.me/mkasem06" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
